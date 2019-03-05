@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "healthmeter-b5ac6",
+  "private_key_id": "da53f53b29bbfedf4cc5fc5337586f8bb46cc481",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXQbqEBIWBxUJ3\nQykX2C8XR9L9y0O6eUIySg/3AOkb1vjrJA36dpwwBmI7gbIPblyxO9YAi8ZNR0kW\nhMlDI0e0qUuPRcc1RIuh8XMM4ExrWFqo/0XkWg1Dqqn53RApwrhj9zyMUFDeG2CG\n7g4PM/nSl0OTnFbIUawvbUVVyM9Isu55/1c2nlNBHnv7qOGNgcQOmJa8ljBO1KqL\nFFG7aAr7IuZe7lBhmJ+LfhOh+toZf4viKgfSCMrL0OZ9lXJltzg8kMi2fxyj35T5\n8Oui47xHoZqnUPMlg1mftqo0SYUxn+zHCbN+GdfAbkra5dzYxqGpj7XSFz1e9IzF\nThQT+j0rAgMBAAECggEAA5ALemKwaHVEo6FSKaRSgfuiwTQPodypjAXtJs9srjD0\nTLK+8RJC1pa+9oY1DXkr4M9oHEryS36B/sqc83FpLH6pRj9227wapOvaKgEByAbo\nYll4cX+qNUIqh3ksr3anu8ixue6zTaBxkjC+qXF7JBf9L18fr3UnXt2qfmpsFog9\ntQlDFTrIFpJrz1ToVPQEln2XN9rQPdwIP9q96JGuFVm3MXvVKG2SSyEei2wefAEv\nXNBNU6H1FTu96B3XQ864xgiVy6D7zCqnztqEEmjFFQrWFUEQ86RrlSb5s8r9A++V\n8yTPEHJMx0ZeZhpB9XWYsB97j5TeGQuwBYg7emMaYQKBgQDPjgjJHqgRhyJGRpjs\ndYA4N6jm3EpJS0zkBz4Z8Y5G4RoR8MrhS/LSGpaLsmLTnBFwgA5J1NpgF/3IJu9k\nFyXmnJIgeJ/8T4XB4NF4gkBSr8RpHY5kDAwOhiQhS3VFFuRcSU1l5Z2HyoANNv9/\nqPCw3P8OOHHbPwR16baS6gkBmQKBgQC6j7s5Bf7bZwnryH46rCu++IsKYXi91Qer\nafUQjLa70HkzCKsuOgz99wpVaTELNeZv2GYc+lqbYRlc88ptysZonrJDGgmtPXy7\nxEaNQUbXKFC5kkBtbG6fYQaPUXKzC3khQbY9Y4CdvgmNJXCMVSfIeluPWPScZetY\nxvxEEhT3YwKBgQCm+RniSpJk/3S4WoUd/W04TLbJesEcc8KY06bHEkgmh2MEudVN\nKF9hXVhtbAYLPMve2HYmOWGw2rwkcAY4XFL2UlFQZBo4zfTKQ0XhD9AVdSeqdMef\nfv2YFZwtWNovybnO8H2ekvmHS4Z2mx8yoUN41WEvHIOkIO9CuNFTIYo7SQKBgFqL\n6BKFFmzmVapaZOmVJqZJezJOnIuGGXLYuliN8yK0zB441txY0HVysVFC/Mq0HmOq\nY+UsnU1Mk0LKEDW5dRLR8zMeMBQlA6UeXh+wzvEeYA+xLBPvzMEOFmD45vJ/XwsF\nGa4x3PqygXA/+6AgtG5Y9JdeVVqTHOa5rTZckFCBAoGAckU8UaCt4SHnHCGGN6BZ\n6YGVMxHGTgmmR6FZ+IKeZNAz7m57Jq77mh3gh75n8eK/8BLaQ5LJWpDyqVRFzL9k\n92kWoHDUHvwb4gotOAV35uYjzbFy9oc+CRuvfxEuNB1J7Wet4Gy4vCyKA1yyRltq\nK6DmDHyMAXslpVJhwfEp6ps=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-a4kpw@healthmeter-b5ac6.iam.gserviceaccount.com",
+  "client_id": "108551766234724694770",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-a4kpw%40healthmeter-b5ac6.iam.gserviceaccount.com"
+}
